@@ -1,0 +1,22 @@
+.table {
+    display: grid;
+    grid-template-columns: repeat(14, 1fr);
+    grid-template-rows: repeat(6, 1fr);
+    border: 1px solid green;
+    position: relative;
+  }
+  
+  .cell {
+    padding: 20px;
+    border: 1px solid green;
+  }
+
+  .point {
+    height: 15px;
+    width: 15px;
+    border-radius: 50%;
+    background-color:red;
+    text-align: center;
+    font-size:10px;
+  }
+  

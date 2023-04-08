@@ -1,0 +1,71 @@
+{
+  "scenario": [
+    {
+      "scenario_name": "Test Scenario",
+      "scenario_time": "2",
+      "id": "ca5e2444-fbf8-442c-830c-b597701aa36b"
+    },
+    {
+      "scenario_name": "My Scenario",
+      "scenario_time": "10",
+      "id": "74296399-94c1-4849-a777-f34dff597f48"
+    },
+    {
+      "scenario_name": "Scenario-A",
+      "scenario_time": "5",
+      "id": "987a92ed-2e58-4058-8462-3bf7f1336157"
+    },
+    {
+      "scenario_name": "Scenario-B",
+      "scenario_time": "7",
+      "id": "945bed53-8035-418e-9540-49c26238934e"
+    }
+  ],
+  "vehicles": [
+    {
+      "id": "2713742b-5fc4-486b-9959-056d65441c53",
+      "scenario": "Test Scenario",
+      "vehicle_name": "Car",
+      "initial_position_X": "7",
+      "initial_position_Y": "77",
+      "speed": "5",
+      "direction": "Upwards"
+    },
+    {
+      "id": "77040885-ca3f-4eed-8aed-c5e048b349c1",
+      "scenario": "My Scenario",
+      "vehicle_name": "Bike",
+      "initial_position_X": "10",
+      "initial_position_Y": "70",
+      "speed": "5",
+      "direction": "Towards"
+    },
+    {
+      "id": "e9b8291a-673c-444d-98db-64aeb028bb8b",
+      "scenario": "My Scenario",
+      "vehicle_name": "Car",
+      "initial_position_X": "20",
+      "initial_position_Y": "5",
+      "speed": "8",
+      "direction": "Downwards"
+    },
+    {
+      "id": "ae6719a9-a9f3-4b1e-b90f-1472ca078890",
+      "scenario": "My Scenario",
+      "vehicle_name": "Bus",
+      "initial_position_X": "45",
+      "initial_position_Y": "100",
+      "speed": "10",
+      "direction": "Backwards"
+    },
+    {
+      "id": "3108e5b2-2cd7-4295-ac13-7d317a55d164",
+      "scenario": "Scenario-A",
+      "vehicle_name": "Truck",
+      "initial_position_X": "50",
+      "initial_position_Y": "10",
+      "speed": "2",
+      "direction": "Downwards"
+    }
+  ]
+}
