@@ -49,7 +49,17 @@ This project consists of four pages they are
    
  Pages
  
- https://user-images.githubusercontent.com/129665041/230846192-ff9369b9-f25e-4286-ae9f-a4758c7fbb30.png
+https://user-images.githubusercontent.com/129665041/230846192-ff9369b9-f25e-4286-ae9f-a4758c7fbb30.png
+ 
+https://user-images.githubusercontent.com/129665041/230847155-6ff90d2f-8bbc-41a5-a241-b85514724b12.png
+
+https://user-images.githubusercontent.com/129665041/230847395-f0407e50-53b1-49fd-a9d1-bf9ba8727c2c.png
+
+https://user-images.githubusercontent.com/129665041/230847903-805ad209-87b7-49e4-a1cf-ab7595e27760.png
+
+https://user-images.githubusercontent.com/129665041/230848135-b60abb24-cdba-460e-b22f-4ad324d51083.png
+
+https://user-images.githubusercontent.com/129665041/230848321-2ee11329-f1e4-4e4d-b41e-64d7c4951bd3.png
 
 Installation and Use
 
